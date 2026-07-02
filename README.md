@@ -1,44 +1,48 @@
-````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,30:0A192F,70:2563EB,100:38BDF8&height=280&section=header&text=ELDORBEK%20MIRZAJONOV&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Brand%20Identity%20Designer%20•%20UI/UX%20Designer%20•%20Frontend%20Developer&descAlignY=58"/>
+# 👋 Hi, I'm **Eldorbek Mirzajonov**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Building+Brands.;Designing+Experiences.;Creating+Modern+Websites.;Always+Learning+New+Things." />
+### 🎨 Brand Identity Designer • UI/UX Designer • Front-End Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Brand+Identity+Designer.;UI%2FUX+Designer.;Frontend+Developer.;Always+Creating+Something+Awesome." />
 
 <br>
 
-![](https://img.shields.io/badge/Brand%20Designer-2563EB?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![](https://img.shields.io/badge/UI%2FUX-0EA5E9?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Frontend-1D4ED8?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Arduino-0F766E?style=for-the-badge&logo=arduino&logoColor=white)
+![](https://img.shields.io/badge/Brand%20Identity-2563EB?style=for-the-badge)
+![](https://img.shields.io/badge/UI%2FUX-0EA5E9?style=for-the-badge)
+![](https://img.shields.io/badge/Frontend-3B82F6?style=for-the-badge)
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
 ![](https://img.shields.io/badge/ESP32-111827?style=for-the-badge)
 
-![](https://komarev.com/ghpvc/?username=eldorbekXan&style=for-the-badge&color=2563EB)
+![](https://komarev.com/ghpvc/?username=eldorbekXan\&style=for-the-badge\&color=0EA5E9)
 
 </div>
 
 ---
 
-# 👋 About Me
+# 🚀 About Me
 
-🧑‍💻 **Name:** Eldorbek Mirzajonov
+🎨 I'm a **Brand Identity Designer** passionate about creating memorable brands and modern digital experiences.
 
-🇺🇿 **Location:** Fergana, Uzbekistan
+💻 Besides design, I build websites, learn new technologies, and create Arduino & ESP32 projects.
 
-🎨 I create modern **Brand Identities**, **Logos**, **UI/UX Designs**, and **Frontend Websites**.
-
-🚀 My goal is to build products that are simple, modern and memorable.
+🌍 **Location:** Fergana, Uzbekistan
 
 ---
 
-# 🚀 What I'm Working On
+# 💎 What I Do
 
-- 🎨 Premium Brand Identity
-- 🦁 Pakhtakor Rebranding
-- 🌐 Rastoo
-- 🤖 ESP32 Robot Football
-- 💻 Frontend Projects
-- 🇬🇧 English Learning
+✨ Brand Identity
+
+🎯 Logo Design
+
+🖥 UI / UX Design
+
+🌐 Front-End Development
+
+🤖 Arduino & ESP32
+
+🎥 Motion Design
 
 ---
 
@@ -52,18 +56,19 @@
 
 ---
 
-# 🌟 Featured Projects
+# 📂 Featured Projects
 
-| 🚀 Project | Description |
-|------------|-------------|
-| 🎨 **KAVRO** | Brand Identity & Logo Design |
-| 🌐 **Rastoo** | Modern Web Platform |
-| 🤖 **Robot Football** | ESP32 + Bluetooth |
-| 🦁 **Pakhtakor** | Football Club Rebranding |
+🦁 **Pakhtakor Rebranding**
+
+🎨 **KAVRO Brand Identity**
+
+🌐 **Rastoo**
+
+🤖 **ESP32 Robot Football**
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -81,77 +86,60 @@
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 Achievements
 
-<p align="center">
+🏅 Creative Branding
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eldorbekXan&theme=tokyo-night&hide_border=true"/>
+🚀 Modern UI Design
 
-</p>
+💡 Problem Solver
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=eldorbekXan&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+🔥 Continuous Learner
 
 ---
 
 # 📚 Currently Learning
 
 ```text
-🎨 Brand Identity      ████████████████████ 100%
+🎨 Branding        ████████████████████
 
-💻 Frontend            ███████████████░░░░░ 80%
+💻 Front-End       ████████████████░░░░
 
-🤖 Arduino / ESP32     ██████████████░░░░░░ 75%
+🤖 Arduino         ██████████████░░░░░░
 
-🇬🇧 English            ██████████░░░░░░░░░░ 55%
+🇬🇧 English        ███████████░░░░░░░░░
 ```
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect With Me
 
-<div align="center">
+<p align="center">
 
-[![Portfolio](https://img.shields.io/badge/🎨%20Portfolio-KAVRO-blue?style=for-the-badge)](https://t.me/kavro_designs)
+<a href="https://t.me/kavro_designs">
+<img src="https://img.shields.io/badge/🎨%20Portfolio-KAVRO%20Design-229ED9?style=for-the-badge"/>
+</a>
 
-[![Telegram](https://img.shields.io/badge/🤖%20KAVRO%20AI-Telegram-229ED9?style=for-the-badge)](https://t.me/kavroai)
+<a href="https://t.me/kavroai">
+<img src="https://img.shields.io/badge/🤖%20KAVRO%20AI-Telegram-0088CC?style=for-the-badge"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-eldorbekXan-181717?style=for-the-badge&logo=github)](https://github.com/eldorbekXan)
+<a href="https://github.com/eldorbekXan">
+<img src="https://img.shields.io/badge/GitHub-eldorbekXan-181717?style=for-the-badge&logo=github"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eldorbekmirzajonov98@gmail.com)
+<a href="mailto:eldorbekmirzajonov98@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
+</p>
 
 ---
 
-# 💡 Dev Quote
-
-> **"Great design is invisible. Great branding is unforgettable."**
-
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### ⭐ *"Design is intelligence made visible."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:030712&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=120&section=footer"/>
 
 </div>
-````
