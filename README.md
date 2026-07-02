@@ -1,23 +1,133 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Eldorbek Mirzajonov
-============================================================================================================================================
+<div align="center">
 
-Web designer and developer
---------------------------
+# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Hi+👋,+I'm+Eldorbek+Mirzajonov;UI%2FUX+Designer;Brand+Identity+Designer;Frontend+Developer;Founder+of+KAVRO" />
 
-I have been working as a web designer and developer for 1 year.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,30:08142d,60:003C8F,100:00BFFF&text=KAVRO&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Designing%20The%20Future&descAlignY=58"/>
 
-* 🌍  I'm based in Uzbekistan Fergana
-* 🖥️  See my portfolio at [My design portfolio](http://https://t.me/kavro_designs)
-* ✉️  You can contact me at [eldorbekmirzajonov98@gmail.com](mailto:eldorbekmirzajonov98@gmail.com)
-* 🚀  I'm currently working on [Rastoo](http://rastoo.uz)
-* 🧠  I'm currently learning English with WE STUDY
-* 👥  I'm looking to collaborate on By design projects and programs
-* 💬  Ask me about I'm from another planet... but I won't tell anyone.
+![](https://komarev.com/ghpvc/?username=eldorbekXan&label=Profile+Views&color=00BFFF&style=for-the-badge)
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
+</div>
+
+---
+
+# 💫 About Me
+
+🚀 Passionate UI/UX & Brand Identity Designer from **Uzbekistan 🇺🇿**
+
+I love creating modern brands, minimal logos, websites and user experiences that leave an impact.
+
+Currently improving myself in **Frontend Development** while working as a professional designer.
+
+### 🔥 Current Focus
+
+- 🎨 Logo & Brand Identity
+- 💻 UI/UX Design
+- 🌐 Frontend Development
+- 🤖 Arduino & ESP32 Projects
+- 📈 Personal Brand Building
+
+---
+
+# 🌍 Connect
+
+<p align="center">
+
+<a href="https://t.me/kavro_designs">
+<img src="https://skillicons.dev/icons?i=telegram"/>
+</a>
+
+<a href="https://github.com/eldorbekXan">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:eldorbekmirzajonov98@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.youtube.com/@IQmedia-u6i">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" width="48"/>
+</a>
+
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/eldorbekXan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.youtube.com/@IQmedia-u6i" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,html,css,js,python,vscode,arduino,git,github&perline=6"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eldorbekXan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eldorbekXan&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eldorbekXan&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=eldorbekXan&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 Currently Learning
+
+```text
+██████████░░░░░░░░░  HTML/CSS
+█████████░░░░░░░░░░ JavaScript
+████████░░░░░░░░░░░ UI/UX
+███████░░░░░░░░░░░░ Python
+██████░░░░░░░░░░░░░ English
+```
+
+---
+
+# 💻 Quote
+
+> **"Design isn't just what it looks like. Design is how it works."**
+>
+> — Steve Jobs
+
+---
+
+<div align="center">
+
+## ⭐ Thanks For Visiting ⭐
+
+### See you again 👋
+
+</div>
