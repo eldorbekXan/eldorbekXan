@@ -1,133 +1,124 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Hi+👋,+I'm+Eldorbek+Mirzajonov;UI%2FUX+Designer;Brand+Identity+Designer;Frontend+Developer;Founder+of+KAVRO" />
+# ELDORBEK MIRZAJONOV
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,30:08142d,60:003C8F,100:00BFFF&text=KAVRO&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Designing%20The%20Future&descAlignY=58"/>
+### Brand Identity Designer • UI/UX Designer • Front-End Developer
 
-![](https://komarev.com/ghpvc/?username=eldorbekXan&label=Profile+Views&color=00BFFF&style=for-the-badge)
+<p>
+Creating modern brands, digital products and user experiences with simplicity, precision and creativity.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Brands.;Designing+Experiences.;Creating+Digital+Products.;Welcome+to+my+GitHub." />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=eldorbekXan\&style=for-the-badge\&color=2563EB)
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👋 About Me
 
-🚀 Passionate UI/UX & Brand Identity Designer from **Uzbekistan 🇺🇿**
+I'm **Eldorbek Mirzajonov**, a passionate **Brand Identity Designer** and **Front-End Developer** from **Fergana, Uzbekistan 🇺🇿**.
 
-I love creating modern brands, minimal logos, websites and user experiences that leave an impact.
+I enjoy transforming ideas into meaningful visual identities and modern digital experiences.
 
-Currently improving myself in **Frontend Development** while working as a professional designer.
+My goal is to build products that are not only beautiful but also functional and memorable.
 
-### 🔥 Current Focus
+---
 
-- 🎨 Logo & Brand Identity
-- 💻 UI/UX Design
-- 🌐 Frontend Development
-- 🤖 Arduino & ESP32 Projects
-- 📈 Personal Brand Building
+# 🚀 Current Focus
+
+* 🎨 Premium Logo Design
+* 🖤 Brand Identity Systems
+* 📱 UI/UX Design
+* 🌐 Front-End Development
+* 🤖 Arduino & ESP32 Projects
+* 🇬🇧 Improving my English every day
+
+---
+
+# 🧰 Toolbox
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,html,css,js,python,vscode,git,github,arduino&theme=dark"/>
+
+</p>
+
+---
+
+# ✨ Design Philosophy
+
+> Good design is not about making things beautiful.
+>
+> It's about solving problems beautifully.
+
+---
+
+# 📌 Featured Projects
+
+### 🎨 KAVRO
+
+A modern creative brand focused on branding, logos and visual identity.
+
+### 🌐 Rastoo
+
+Contributing to modern web experiences.
+
+### 🤖 ESP32 Robot Football
+
+Bluetooth controlled smart football robot built with ESP32 and Arduino.
+
+### 🦁 Pakhtakor Rebranding
+
+A complete visual identity redesign inspired by strength, heritage and modern football culture.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eldorbekXan&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=eldorbekXan&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eldorbekXan&theme=github-compact&hide_border=true"/>
+
+</p>
 
 ---
 
 # 🌍 Connect
 
-<p align="center">
+### 🎨 Design Portfolio
 
-<a href="https://t.me/kavro_designs">
-<img src="https://skillicons.dev/icons?i=telegram"/>
-</a>
+**Telegram:** https://t.me/kavro_designs
 
-<a href="https://github.com/eldorbekXan">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+### 🤖 AI Community
 
-<a href="mailto:eldorbekmirzajonov98@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+**Telegram:** https://t.me/kavroai
 
-<a href="https://www.youtube.com/@IQmedia-u6i">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" width="48"/>
-</a>
+### 💻 GitHub
 
-</p>
+https://github.com/eldorbekXan
 
----
+### 📧 Email
 
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,html,css,js,python,vscode,arduino,git,github&perline=6"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eldorbekXan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eldorbekXan&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eldorbekXan&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=eldorbekXan&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🎯 Currently Learning
-
-```text
-██████████░░░░░░░░░  HTML/CSS
-█████████░░░░░░░░░░ JavaScript
-████████░░░░░░░░░░░ UI/UX
-███████░░░░░░░░░░░░ Python
-██████░░░░░░░░░░░░░ English
-```
-
----
-
-# 💻 Quote
-
-> **"Design isn't just what it looks like. Design is how it works."**
->
-> — Steve Jobs
+[eldorbekmirzajonov98@gmail.com](mailto:eldorbekmirzajonov98@gmail.com)
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks For Visiting ⭐
+## "Minimal. Functional. Memorable."
 
-### See you again 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer"/>
 
 </div>
